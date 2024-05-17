@@ -1,4 +1,4 @@
-XSS Scanner and payload generator py3
+#XSS Scanner and payload generator py3
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
